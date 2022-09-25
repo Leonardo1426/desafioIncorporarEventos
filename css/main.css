@@ -5,7 +5,7 @@ body {
   body header nav div div ul li a.tienda {
     font-weight: bolder;
     font-size: 1.3rem; }
-  body header nav div div ul li a.listaDePrecios {
+  body header nav div div ul li a.novedades {
     font-weight: bolder;
     font-size: 1.3rem; }
   body header nav div div ul li a.compraFacil {
@@ -84,7 +84,7 @@ body {
     background-color: white; }
   header nav div div ul li a.tienda:hover {
     background-color: white; }
-  header nav div div ul li a.listaDePrecios:hover {
+  header nav div div ul li a.novedades:hover {
     background-color: white; }
   header nav div div ul li a.compraFacil:hover {
     background-color: white; }
